@@ -1,0 +1,59 @@
+.container{
+    outline: solid;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+
+}
+.about-box{
+    display: flex;
+    margin-top: 10px;
+}
+.about-box .about-image,
+.about-box .about-content{
+    width: 50%;
+    height: 200px;
+    outline: solid 2px
+}
+.adamain{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+.adamain .content{
+    width: 33.33%;
+    height: 100px;
+    outline: solid 2px;
+}
+.adamain1{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+.adamain1 .content1{
+    width: 25%;
+    height: 200px;
+    
+}
+.adamain2{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+.adamain2 .content2{
+    width: 25%;
+    height: 200px;
+    outline: solid 2px;
+}
+.adamain3{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+.adamain3 .content3{
+    width: 33.33%;
+    height: 200px;
+    outline: solid 2px;
+    
+}
